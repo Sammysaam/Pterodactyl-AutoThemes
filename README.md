@@ -92,7 +92,7 @@ https://user-images.githubusercontent.com/69549678/159163259-d5a45f1d-295c-4922-
 
 <h1 align="center">Development</h1>
 
-This script was created and is being maintained by [Ferks - FK](https://github.com/Ferks-FK).
+This script was created and is being maintained by [Skyz Developer](https://github.com/SammySaam).
 
 <h1 align="center">Extra Informations</h1>
 
